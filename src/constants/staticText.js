@@ -1,0 +1,10 @@
+export const FORGOT_PASSWORD_TEXT = `Forgot Password?`;
+export const SIGNUP_TEXT = `Signup`;
+export const LOGIN_TEXT = `LOGIN`;
+export const VALID_EMAIL_MESSAGE = `Please Enter Valid Email`
+export const Health_Fitness = 'Health & Fitness';
+export const Beauty = 'Beauty';
+export const Clothing = 'Clothing';
+export const Cosmetics = 'Cosmetics';
+export const Housing = 'Housing';
+export const Food = 'Food';
